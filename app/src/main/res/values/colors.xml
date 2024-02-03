@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--colors from the figma source -->
+    <color name="theBlue">#0e6fff</color>
+    <color name="theGrey">#f5f5f5</color>
+    <color name="theBlueSecondary">#2b80ff</color>
+    <color name="theGreySecondary">#999CA0</color>
+</resources>
